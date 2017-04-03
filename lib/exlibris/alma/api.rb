@@ -2,11 +2,6 @@ module Exlibris
   module Alma
     class Api
 
-      BASE_URL_AMERICA = 'https://api-na.hosted.exlibrisgroup.com'
-      BASE_URL_EUROPE = 'https://api-eu.hosted.exlibrisgroup.com'
-      BASE_URL_ASIA_PACIFIC = 'https://api-ap.hosted.exlibrisgroup.com'
-      BASE_URL_CANADA ='https://api-ca.hosted.exlibrisgroup.com'
-
       attr_reader :api_key, :base_url, :version
 
         private_class_method

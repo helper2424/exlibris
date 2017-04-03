@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
+source 'https://gem.fury.io/ereserve/' do
+  %w(marcus)
+end
 
-gem 'alma'
-gem 'rest-client'
-gem 'vcr'
-gem 'webmock'
+gem 'library_stdnums', git: 'https://github.com/michael-harrison/library_stdnums'
+gemspec
