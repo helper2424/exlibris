@@ -5,6 +5,7 @@ require 'vcr'
 require 'marcus'
 
 require 'exlibris/base'
+require 'exlibris/alma/api'
 
 module Exlibris
   module Alma
