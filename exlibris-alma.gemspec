@@ -29,7 +29,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'oj', '~> 2.15.0'
   spec.add_dependency 'rest-client', '~> 2.0.0'
   spec.add_dependency 'marcus', '~> 0.5.22'
-  spec.add_dependency 'library_stdnums', '~> 1.4.2'
+  spec.add_dependency 'library_stdnums', '~> 1.6.0'
 
   spec.add_development_dependency 'bundler', '~> 1.10'
   spec.add_development_dependency 'rake', '~> 10.0'
