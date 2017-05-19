@@ -1,3 +1,4 @@
+# rubocop:disable Style/FileName
 require 'logger'
 require 'rest-client'
 require 'webmock'
@@ -13,6 +14,6 @@ module Exlibris
     BASE_URL_AMERICA = 'https://api-na.hosted.exlibrisgroup.com'.freeze
     BASE_URL_EUROPE = 'https://api-eu.hosted.exlibrisgroup.com'.freeze
     BASE_URL_ASIA_PACIFIC = 'https://api-ap.hosted.exlibrisgroup.com'.freeze
-    BASE_URL_CANADA ='https://api-ca.hosted.exlibrisgroup.com'.freeze
+    BASE_URL_CANADA = 'https://api-ca.hosted.exlibrisgroup.com'.freeze
   end
 end

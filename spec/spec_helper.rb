@@ -15,5 +15,3 @@ VCR.configure do |c|
   c.default_cassette_options = def_co
   c.allow_http_connections_when_no_cassette = true
 end
-
-require 'pry'

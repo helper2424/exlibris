@@ -1,4 +1,6 @@
 module Exlibris
+  # == Base
+  #
   class Base
     class << self
       def logger

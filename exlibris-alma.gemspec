@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors = ['Eugene Mironov', 'Michael Harrison']
   spec.email = ['michael@ereserve.com.au']
 
-  spec.summary = %q{}
-  spec.description = %q{}
+  spec.summary = %q{Exlibris Alma integration}
+  spec.description = %q{Exlibris Alma integration}
   spec.homepage = "TODO: Put your gem's website or public repo URL here."
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
