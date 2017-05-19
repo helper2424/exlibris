@@ -3,6 +3,7 @@ require 'rest-client'
 require 'webmock'
 require 'vcr'
 require 'marcus'
+require 'nokogiri'
 
 require 'exlibris/base'
 require 'exlibris/alma/api'
