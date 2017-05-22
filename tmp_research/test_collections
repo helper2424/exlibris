@@ -1,0 +1,104 @@
+<collections total_record_count="21">
+  <collection>
+    <pid link="https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/8111039610000561">8111039610000561</pid>
+    <mms_id link="https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/9911039600000561">9911039600000561</mms_id>
+    <name>Miscellaneous</name>
+    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia &lt;a href="http://lib.umassd.edu/sites/default/files/archives/findaids/MC5CJC.pdf"&gt;finding aid&lt;/a&gt; deserunt mollit anim id est laborum </description>
+    <thumbnail>/view/delivery/thumbnail/TR_INTEGRATION_INST/8111039610000561</thumbnail>
+    <library desc="Main Library">MAIN</library>
+    <external_system></external_system>
+    <external_id></external_id>
+  </collection>
+  <collection>
+    <pid link="https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/8122519940000561">8122519940000561</pid>
+    <mms_id link="https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/9922519930000561">9922519930000561</mms_id>
+    <name>City Postcards </name>
+    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</description>
+    <thumbnail>/view/delivery/thumbnail/TR_INTEGRATION_INST/8122519940000561</thumbnail>
+    <library desc="Main Library">MAIN</library>
+    <external_system></external_system>
+    <external_id></external_id>
+  </collection>
+  <collection>
+    <pid link="https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/8122519960000561">8122519960000561</pid>
+    <mms_id link="https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/9922519950000561">9922519950000561</mms_id>
+    <name>Children's E-books </name>
+    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum...</description>
+    <thumbnail>/view/delivery/thumbnail/TR_INTEGRATION_INST/8122519960000561</thumbnail>
+    <library desc="Main Library">MAIN</library>
+    <external_system></external_system>
+    <external_id></external_id>
+  </collection>
+  <collection>
+    <pid link="https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/8122520000000561">8122520000000561</pid>
+    <mms_id link="https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/9922519990000561">9922519990000561</mms_id>
+    <name>Museum Collections </name>
+    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</description>
+    <thumbnail>/view/delivery/thumbnail/TR_INTEGRATION_INST/8122520000000561</thumbnail>
+    <library desc="Main Library">MAIN</library>
+    <external_system></external_system>
+    <external_id></external_id>
+  </collection>
+  <collection>
+    <pid link="https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/8183060000000561">8183060000000561</pid>
+    <mms_id link="https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/99238241500561">99238241500561</mms_id>
+    <name>1234 test</name>
+    <thumbnail>/view/delivery/thumbnail/TR_INTEGRATION_INST/8183060000000561</thumbnail>
+    <library desc="Main Library">MAIN</library>
+  </collection>
+  <collection>
+    <pid link="https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/8183389990000561">8183389990000561</pid>
+    <mms_id link="https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/99240241500561">99240241500561</mms_id>
+    <name>University--Theses</name>
+    <description></description>
+    <thumbnail>/view/delivery/thumbnail/TR_INTEGRATION_INST/8183389990000561</thumbnail>
+    <library desc="Main Library">MAIN</library>
+    <external_system></external_system>
+    <external_id>613</external_id>
+  </collection>
+  <collection>
+    <pid link="https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/8187829680000561">8187829680000561</pid>
+    <mms_id link="https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/99256541500561">99256541500561</mms_id>
+    <name>Virtual Reality Objects</name>
+    <thumbnail>/view/delivery/thumbnail/TR_INTEGRATION_INST/8187829680000561</thumbnail>
+    <library desc="Main Library">MAIN</library>
+  </collection>
+  <collection>
+    <pid link="https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/8187969090000561">8187969090000561</pid>
+    <mms_id link="https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/99257839800561">99257839800561</mms_id>
+    <name>Asian book collection</name>
+    <thumbnail>/view/delivery/thumbnail/TR_INTEGRATION_INST/8187969090000561</thumbnail>
+    <library desc="Jangho Library">JL</library>
+  </collection>
+  <collection>
+    <pid link="https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/8190239830000561">8190239830000561</pid>
+    <mms_id link="https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/99261241100561">99261241100561</mms_id>
+    <name>EM Digital Collection</name>
+    <description>digital test</description>
+    <thumbnail>/view/delivery/thumbnail/TR_INTEGRATION_INST/8190239830000561</thumbnail>
+    <library desc="Main Library">MAIN</library>
+    <external_system></external_system>
+    <external_id></external_id>
+  </collection>
+  <collection>
+    <pid link="https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/8190539630000561">8190539630000561</pid>
+    <mms_id link="https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/99262040600561">99262040600561</mms_id>
+    <name>EM2 test</name>
+    <thumbnail>/view/delivery/thumbnail/TR_INTEGRATION_INST/8190539630000561</thumbnail>
+    <library desc="Main Library">MAIN</library>
+  </collection>
+  <collection>
+    <pid link="https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/8190959920000561">8190959920000561</pid>
+    <mms_id link="https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/99270041300561">99270041300561</mms_id>
+    <name>Albright</name>
+    <thumbnail>/view/delivery/thumbnail/TR_INTEGRATION_INST/8190959920000561</thumbnail>
+    <library desc="Main Library">MAIN</library>
+  </collection>
+  <collection>
+    <pid link="https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/8190969590000561">8190969590000561</pid>
+    <mms_id link="https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/99263840800561">99263840800561</mms_id>
+    <name>wrh test illusions</name>
+    <thumbnail>/view/delivery/thumbnail/TR_INTEGRATION_INST/8190969590000561</thumbnail>
+    <library desc="Music Library">MUS</library>
+  </collection>
+</collections>

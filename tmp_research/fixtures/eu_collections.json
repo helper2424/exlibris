@@ -1,0 +1,221 @@
+{
+  "collection": [
+    {
+      "pid": {
+        "value": "8111039610000561",
+        "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/8111039610000561"
+      },
+      "mms_id": {
+        "value": "9911039600000561",
+        "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/9911039600000561"
+      },
+      "name": "Miscellaneous",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia <a href=\"http://lib.umassd.edu/sites/default/files/archives/findaids/MC5CJC.pdf\">finding aid</a> deserunt mollit anim id est laborum ",
+      "thumbnail": "/view/delivery/thumbnail/TR_INTEGRATION_INST/8111039610000561",
+      "library": {
+        "value": "MAIN",
+        "desc": "Main Library"
+      },
+      "external_system": "",
+      "external_id": ""
+    },
+    {
+      "pid": {
+        "value": "8122519940000561",
+        "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/8122519940000561"
+      },
+      "mms_id": {
+        "value": "9922519930000561",
+        "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/9922519930000561"
+      },
+      "name": "City Postcards ",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+      "thumbnail": "/view/delivery/thumbnail/TR_INTEGRATION_INST/8122519940000561",
+      "library": {
+        "value": "MAIN",
+        "desc": "Main Library"
+      },
+      "external_system": "",
+      "external_id": ""
+    },
+    {
+      "pid": {
+        "value": "8122519960000561",
+        "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/8122519960000561"
+      },
+      "mms_id": {
+        "value": "9922519950000561",
+        "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/9922519950000561"
+      },
+      "name": "Children's E-books ",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum...",
+      "thumbnail": "/view/delivery/thumbnail/TR_INTEGRATION_INST/8122519960000561",
+      "library": {
+        "value": "MAIN",
+        "desc": "Main Library"
+      },
+      "external_system": "",
+      "external_id": ""
+    },
+    {
+      "pid": {
+        "value": "8122520000000561",
+        "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/8122520000000561"
+      },
+      "mms_id": {
+        "value": "9922519990000561",
+        "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/9922519990000561"
+      },
+      "name": "Museum Collections ",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+      "thumbnail": "/view/delivery/thumbnail/TR_INTEGRATION_INST/8122520000000561",
+      "library": {
+        "value": "MAIN",
+        "desc": "Main Library"
+      },
+      "external_system": "",
+      "external_id": ""
+    },
+    {
+      "pid": {
+        "value": "8183060000000561",
+        "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/8183060000000561"
+      },
+      "mms_id": {
+        "value": "99238241500561",
+        "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/99238241500561"
+      },
+      "name": "1234 test",
+      "description": null,
+      "thumbnail": "/view/delivery/thumbnail/TR_INTEGRATION_INST/8183060000000561",
+      "library": {
+        "value": "MAIN",
+        "desc": "Main Library"
+      }
+    },
+    {
+      "pid": {
+        "value": "8183389990000561",
+        "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/8183389990000561"
+      },
+      "mms_id": {
+        "value": "99240241500561",
+        "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/99240241500561"
+      },
+      "name": "University--Theses",
+      "description": "",
+      "thumbnail": "/view/delivery/thumbnail/TR_INTEGRATION_INST/8183389990000561",
+      "library": {
+        "value": "MAIN",
+        "desc": "Main Library"
+      },
+      "external_system": "",
+      "external_id": "613"
+    },
+    {
+      "pid": {
+        "value": "8187829680000561",
+        "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/8187829680000561"
+      },
+      "mms_id": {
+        "value": "99256541500561",
+        "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/99256541500561"
+      },
+      "name": "Virtual Reality Objects",
+      "description": null,
+      "thumbnail": "/view/delivery/thumbnail/TR_INTEGRATION_INST/8187829680000561",
+      "library": {
+        "value": "MAIN",
+        "desc": "Main Library"
+      }
+    },
+    {
+      "pid": {
+        "value": "8187969090000561",
+        "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/8187969090000561"
+      },
+      "mms_id": {
+        "value": "99257839800561",
+        "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/99257839800561"
+      },
+      "name": "Asian book collection",
+      "description": null,
+      "thumbnail": "/view/delivery/thumbnail/TR_INTEGRATION_INST/8187969090000561",
+      "library": {
+        "value": "JL",
+        "desc": "Jangho Library"
+      }
+    },
+    {
+      "pid": {
+        "value": "8190239830000561",
+        "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/8190239830000561"
+      },
+      "mms_id": {
+        "value": "99261241100561",
+        "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/99261241100561"
+      },
+      "name": "EM Digital Collection",
+      "description": "digital test",
+      "thumbnail": "/view/delivery/thumbnail/TR_INTEGRATION_INST/8190239830000561",
+      "library": {
+        "value": "MAIN",
+        "desc": "Main Library"
+      },
+      "external_system": "",
+      "external_id": ""
+    },
+    {
+      "pid": {
+        "value": "8190539630000561",
+        "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/8190539630000561"
+      },
+      "mms_id": {
+        "value": "99262040600561",
+        "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/99262040600561"
+      },
+      "name": "EM2 test",
+      "description": null,
+      "thumbnail": "/view/delivery/thumbnail/TR_INTEGRATION_INST/8190539630000561",
+      "library": {
+        "value": "MAIN",
+        "desc": "Main Library"
+      }
+    },
+    {
+      "pid": {
+        "value": "8190959920000561",
+        "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/8190959920000561"
+      },
+      "mms_id": {
+        "value": "99270041300561",
+        "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/99270041300561"
+      },
+      "name": "Albright",
+      "description": null,
+      "thumbnail": "/view/delivery/thumbnail/TR_INTEGRATION_INST/8190959920000561",
+      "library": {
+        "value": "MAIN",
+        "desc": "Main Library"
+      }
+    },
+    {
+      "pid": {
+        "value": "8190969590000561",
+        "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/collections/8190969590000561"
+      },
+      "mms_id": {
+        "value": "99263840800561",
+        "link": "https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/99263840800561"
+      },
+      "name": "wrh test illusions",
+      "description": null,
+      "thumbnail": "/view/delivery/thumbnail/TR_INTEGRATION_INST/8190969590000561",
+      "library": {
+        "value": "MUS",
+        "desc": "Music Library"
+      }
+    }
+  ],
+  "total_record_count": 21
+}
