@@ -1,0 +1,60 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api-eu.hosted.exlibrisgroup.com/almaws/v1/bibs/99238241500561?apikey=l7xxe0a2a71a893845f3a0efb71980656422&expand=p_avail,e_avail,d_avail&format=json
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      Accept-Encoding:
+      - gzip, deflate
+      User-Agent:
+      - rest-client/2.0.2 (darwin16.3.0 x86_64) ruby/2.3.0p0
+      Host:
+      - api-eu.hosted.exlibrisgroup.com
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - Apache-Coyote/1.1
+      P3p:
+      - CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+      Vary:
+      - Accept-encoding
+      X-Exl-Api-Remaining:
+      - '199952'
+      Set-Cookie:
+      - JSESSIONID="8043DAEB10F37121ABB18099137D911F.api02.na01.prod.alma.dc04.hosted.exlibrisgroup.com:1801";
+        Version=1; Domain=api-eu.hosted.exlibrisgroup.com; Path=/almaws/v1/bibs
+      - sto-id-%3FSaaS-A_prod%3FapiX-1801.na01.prod.alma-sg=GLDIBMAK; Domain=api-eu.hosted.exlibrisgroup.com;
+        Expires=Fri, 21-May-2027 00:38:01 GMT; Path=/almaws/v1/bibs
+      - urm_se=1495471824599; Domain=api-eu.hosted.exlibrisgroup.com; Path=/almaws/v1/bibs
+      - urm_st=1495470924599; Domain=api-eu.hosted.exlibrisgroup.com; Path=/almaws/v1/bibs
+      Content-Type:
+      - application/json;charset=UTF-8
+      Date:
+      - Mon, 22 May 2017 16:35:23 GMT
+      Transfer-Encoding:
+      - chunked
+      Content-Encoding:
+      - gzip
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        H4sIAAAAAAAAA21SS07DMBC9SuU1ieMWCo1CuuMEsIGgyImniYU/kccprRB3
+        Z0KgqKK7sd9nxm/8wazFWiuWs81mubpbXoubLLtZC3bFArQ+qHrng5WRCKql
+        S6PdG6j6B5uEH2wvzQgsd6MxVyweh5/6kw46GjoxsVxdLyJgJAc5xt6HX7pG
+        dH91c6p7b5R2Hf7znwYgxz7GAXPO5aATGNPeYwSVwsHoJmjsgh+HtPWWS2Pl
+        O/K94I1ukJ8/kp+60KxtAEkedXMkezKqcRwGH6aRfyFFBAKXmVgn2SbJbp+n
+        RCTG2nqld/qy+pxw0WNqFQCx3gVv62FsjMaenk/NdtIgTLE5DZTGCyu2B2sW
+        ewiovbuvmEizii3AtTSC6+ji6fEhEeuKbcvKFfOiFiRxmKuW4Ck5Cm4Yg0l9
+        6LhqORiw4CJykQpesbJQbf69ukmXG/ltC64j6LTJgoQzqSz43KVkr/MHmRf6
+        +QU0/bOWXQIAAA==
+    http_version: 
+  recorded_at: Mon, 22 May 2017 16:35:24 GMT
+recorded_with: VCR 3.0.3
